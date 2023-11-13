@@ -13,7 +13,7 @@ height: 120px;
 background-image: url('../img/logo.svg');
 background-image: url('../img/pattern.png');
 background-size: cover;
-background-size: 36%;
+background-size: 30%;
 }
 
 h1{
@@ -45,8 +45,10 @@ margin: 0;
 
 }
 
-th {
+.tabella {
+    width: 200px;
     text-align: left;
+    background-color: rgb(83, 157, 253);
 }
 
 h2 {
