@@ -18,11 +18,13 @@ background-size: 30%;
 
 h1{
     font-size: 45px;
+    margin: 40px 0px 0px 0px;
     
 }
 
 .author {
-    font-size: 24px;
+    margin: 0px 0px 30px 0px;
+    font-size: 22px;
     color: rgba(0, 0, 0, 0.589)
 }
 
@@ -30,5 +32,21 @@ h1{
     color: rgba(173, 216, 230, 0.918);
 } 
 
+.photos {
+margin: 0;
+}
+
+.content {
+    font-size: 20px;
+}
+
+.yellow-back {
+    background-color: yellow;
+
+}
+
+th {
+    text-align: left;
+}
 
 
