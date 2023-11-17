@@ -15,9 +15,10 @@ background-size: 30%;
 }
 
 .bool {
-    height: 50px;
+    line-height: 120px;
+    height: 60px;
+    padding: 30px 5px;
 }
-
 
 
 h1 {
